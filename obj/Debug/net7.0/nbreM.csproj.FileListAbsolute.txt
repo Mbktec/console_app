@@ -1,0 +1,15 @@
+C:\Users\GABERA\nbreM\bin\Debug\net7.0\nbreM.exe
+C:\Users\GABERA\nbreM\bin\Debug\net7.0\nbreM.deps.json
+C:\Users\GABERA\nbreM\bin\Debug\net7.0\nbreM.runtimeconfig.json
+C:\Users\GABERA\nbreM\bin\Debug\net7.0\nbreM.dll
+C:\Users\GABERA\nbreM\bin\Debug\net7.0\nbreM.pdb
+C:\Users\GABERA\nbreM\obj\Debug\net7.0\nbreM.csproj.AssemblyReference.cache
+C:\Users\GABERA\nbreM\obj\Debug\net7.0\nbreM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GABERA\nbreM\obj\Debug\net7.0\nbreM.AssemblyInfoInputs.cache
+C:\Users\GABERA\nbreM\obj\Debug\net7.0\nbreM.AssemblyInfo.cs
+C:\Users\GABERA\nbreM\obj\Debug\net7.0\nbreM.csproj.CoreCompileInputs.cache
+C:\Users\GABERA\nbreM\obj\Debug\net7.0\nbreM.dll
+C:\Users\GABERA\nbreM\obj\Debug\net7.0\refint\nbreM.dll
+C:\Users\GABERA\nbreM\obj\Debug\net7.0\nbreM.pdb
+C:\Users\GABERA\nbreM\obj\Debug\net7.0\nbreM.genruntimeconfig.cache
+C:\Users\GABERA\nbreM\obj\Debug\net7.0\ref\nbreM.dll
